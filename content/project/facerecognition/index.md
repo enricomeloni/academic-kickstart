@@ -47,3 +47,5 @@ Face Detection is powered by Haar Cascade Classifier. Face Feature are extracted
 Classification is performed by weighted kNN on the extracted face features.
 
 Data processing is powered by OpenCV for Java.
+
+GitHub page: https://github.com/MeloniZippoProjects/MultimediaProject
