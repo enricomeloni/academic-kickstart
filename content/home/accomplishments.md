@@ -19,33 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Cornell, Maryland, Max Planck Pre-doctoral Research School"
+  organization_url = "https://cmmrs.mpi-sws.org/"
+  title = "Software Systems, Social Systems, Security and Privacy"
+  url = "https://cmmrs.mpi-sws.org/"
+  date_start = "2017-08-08"
+  date_end = "2017-08-13"
+  description = "Outstanding undergraduate and Masters students are invited to learn about world-class research in security and privacy, social systems, distributed systems, machine learning, programming languages, and verification. Leading researchers will engage with attendees in their areas of expertise: the curriculum will include lectures, projects, and interaction with faculty from participating institutions."
 
 +++

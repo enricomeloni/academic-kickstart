@@ -14,23 +14,37 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+
+[[feature]]
+  icon = "pytorch"
+  icon_pack = "custom"
+  name = "Pytorch"
+
+[[feature]]
+  icon = "unity"
+  icon_pack = "fab"
+  name = "Unity3D" 
+
+[[feature]]
+  icon = "c-sharp"
+  icon_pack = "custom"
+  name = "C#"
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "Javascript"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
