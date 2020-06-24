@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SAILab Virtual Environmnet"
+title: "SAILab Virtual Environment"
 summary: "A virtual environment used to generate fully annotated video streams."
 authors: [Enrico Meloni, Luca Pasqualini, Matteo Tiezzi, Stefano Melacci]
 tags: [Machine Learning]
