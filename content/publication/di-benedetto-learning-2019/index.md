@@ -33,3 +33,4 @@ image:
   preview_only: false
 ---
 
+### {{< icon name="award" pack="fas" >}} Awarded Best Paper at CBMI 2019 {{< icon name="award" pack="fas" >}}
