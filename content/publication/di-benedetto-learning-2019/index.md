@@ -22,7 +22,9 @@ featured: false
 publication: "*2019 International Conference on Content-Based Multimedia Indexing (CBMI)*"
 
 links:
-  - name: IEEE Xplore
+  - icon_pack: ai
+    icon: ieee
+    name: IEEE Xplore
     url: 'https://ieeexplore.ieee.org/document/8877466'
 
 image:
