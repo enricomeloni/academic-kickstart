@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "KP-ABE Schema (*)"
   focal_point: ""
   preview_only: false
 
@@ -38,8 +38,15 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+links:
+  - icon_pack: fab
+    icon: github
+    name: GitHub
+    url: "https://github.com/MeloniZippoProjects/ABEPhotoSharing"
+
 ---
 
 The application is a secure photo sharing service which uses KPABE encryption to enforce access to pictures exclusively to allowed users. The application is written in C# for the Windows platform and depends on a KPABE command line implementation
 
-GitHub: https://github.com/MeloniZippoProjects/ABEPhotoSharing
+(*): The featured image is extracted from [A Work in Progress: Context based Encryption Scheme for Internet of Things](https://www.researchgate.net/publication/282500797_A_Work_in_Progress_Context_based_Encryption_Scheme_for_Internet_of_Things)

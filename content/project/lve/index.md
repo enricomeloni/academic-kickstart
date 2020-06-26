@@ -4,8 +4,8 @@
 title: "SAILab Virtual Environment"
 summary: "A virtual environment used to generate fully annotated video streams."
 authors: [Enrico Meloni, Luca Pasqualini, Matteo Tiezzi, Stefano Melacci]
-tags: [Machine Learning]
-categories: [machine learning, virtual environments, computer vision, c#, unity3d]
+tags: [machine learning, virtual environments, computer vision, c#, unity3d]
+categories: [Machine Learning]
 date: 2020-06-24T15:47:32+02:00
 
 # Optional external URL for project (replaces project detail page).
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Sample of realistic environment in SAILenv"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).

@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Lockstep Client structure"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -38,6 +38,14 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+
+links:
+  - icon_pack: fab
+    icon: github
+    name: GitHub
+    url: "https://github.com/MeloniZippoProjects/LockstepLibrary"
+
 ---
 This library was developed as group project for Concurrent and Distributed Systems course.
 
@@ -45,4 +53,6 @@ The idea behind this project was to implement first-hand a synchronization layer
 
 We chose to implement the most strict version of lockstep, which doesn't allow for the simulation to go on speculatively in case of delays, contrary to most games. We also chose the client-server structure, which should give the lowest delay in most cases. In order to make the library as generic as possible, we chose to use Java Serialization for marshalling/unmarshalling. This gives a huge overhead in terms of bandwidth, and should be reconsidered given the specific application needs.
 
-GitHub page: https://github.com/MeloniZippoProjects/LockstepLibrary
+{{< figure src="featured.png" title="Client Structure" lightbox="true" >}}
+
+{{< figure src="server.png" title="Server Structure" lightbox="true" >}}

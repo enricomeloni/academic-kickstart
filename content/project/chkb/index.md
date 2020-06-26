@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Screenshot of CHKB"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -38,8 +38,12 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+
+links:
+  - name: Project Page
+    url: "https://www.progettohmr.it/CHKB/"
+
 ---
 
 Validation, correction and extension of CHKB, an encyclopedic web app which main objective is to bring together all informations about computers and more generally about information science history.
-
-Project Page: https://www.progettohmr.it/CHKB/

@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Statistics visualization screen"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -38,6 +38,12 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+
+links:
+  - name: Product Page
+    url: "https://www.ecdata.com/Products/Network-Latency-Emulators/"
+
 ---
 
 WanRaptor is my first job as a Software Engineer and Project Manager with a big enterprise. 
@@ -46,6 +52,4 @@ The WanRaptor is an embedded system used to validate an application in a lab env
 
 The project involved the development from the ground up of the full-stack Graphical User Interface, including management of hardware resources, installation, secure licensing and user interaction.
 
-The WanRaptor is widely used in many laboraties all over United States and further.
-
-Product page: https://www.ecdata.com/Products/Network-Latency-Emulators/
+The WanRaptor is widely used in many laboratories all over United States and further.

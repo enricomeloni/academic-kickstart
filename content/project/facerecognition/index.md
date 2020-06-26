@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Face recognition on Italian YouTuber"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -29,7 +29,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "report.pdf"
 url_video: ""
 
 # Slides (optional).
@@ -38,6 +38,14 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+
+links:
+  - icon_pack: fab
+    icon: github
+    name: GitHub
+    url: "https://github.com/MeloniZippoProjects/MultimediaProject"
+
 ---
 
 This Android app performs face recognition and identification through the smartphone's camera. The app uses an internal database containing the known identities, including sample photos. The app allows the user to check the database content, delete or add new identities.
@@ -46,6 +54,4 @@ Face Detection is powered by Haar Cascade Classifier. Face Feature are extracted
 
 Classification is performed by weighted kNN on the extracted face features.
 
-Data processing is powered by OpenCV for Java.
-
-GitHub page: https://github.com/MeloniZippoProjects/MultimediaProject
+Data processing is powered by OpenCV for Java. 
