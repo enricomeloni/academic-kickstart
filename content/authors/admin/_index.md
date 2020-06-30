@@ -43,6 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: sailab
+  icon_pack: custom
+  link: 'http://sailab.diism.unisi.it/people/enrico-meloni/'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lkmnoppo
@@ -69,3 +72,6 @@ user_groups:
 ---
 
 I am a PhD student in Machine Learning and Explainable AI, at the University of Florence (Smart Computing). I make my research work at SAILab at the University of Siena. My research interests include computer vision, development of virtual environments for training of visual agents. I have a strong passion for Software Engineering and programming.
+
+You can also find me at my personal page in [<img src="/img/sailab.svg" alt="sailab" class="svg-icon svg-baseline">SAILaB website](http://sailab.diism.unisi.it/people/enrico-meloni/).
+
