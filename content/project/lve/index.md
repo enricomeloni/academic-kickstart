@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SAILab Virtual Environment"
-summary: "A virtual environment used to generate fully annotated video streams."
-authors: [Enrico Meloni, Luca Pasqualini, Matteo Tiezzi, Stefano Melacci]
+title: "SAILenv"
+summary: "A virtual environment for generating fully annotated video streams."
+authors: [Enrico Meloni, Luca Pasqualini, Matteo Tiezzi, Marco Gori, Stefano Melacci]
 tags: [machine learning, virtual environments, computer vision, c#, unity3d]
 categories: [Machine Learning]
 date: 2020-06-24T15:47:32+02:00
@@ -38,10 +38,14 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+links:
+  - name: SAILenv
+    url: "http://sailab.diism.unisi.it/sailenv/"
 ---
 
-SAILab Virtual Environment is a part of the Learning In Visual Environments project at SAILab (http://sailab.diism.unisi.it/lve/). 
+SAILenv is a Virtual Environment powered by Unity3D. It includes 3 pre-built scenes with full pixel-wise annotations. SAILenv is capable of generating frames at real-time speed, complete with pixel-wise annotations, optical flow and depth.
 
-The virtual environment is developed with Unity3D and exposes useful information for training a Visual Agents, including full pixel-wise supervisions, optical flow, and depth for each produced frame. Frames are produced at real-time speed, and are accessible through a Python API designed to easily interface with the most widely adopted Machine Learning frameworks. 
+SAILenv also comes with a Python API, designed to easily integrate with the most common learning frameworks available.
 
-The software and source code will be soon available.
+SAILenv is a running project at [SAILab](http://sailab.diism.unisi.it/). More information is available at the [project page](http://sailab.diism.unisi.it/sailenv/). Source code and executables are also available there.
