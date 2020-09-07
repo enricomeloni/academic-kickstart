@@ -48,7 +48,7 @@ social:
   link: 'http://sailab.diism.unisi.it/people/enrico-meloni/'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/lkmnoppo
+  link: https://twitter.com/enricomeloni_ai
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=it&user=Xu-CpN0AAAAJ
