@@ -113,7 +113,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:enrico-meloni?userinfo"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://t.me/lkmnoppo"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://t.me/enricomeloni_ai"},
   ]
 
 ############################
@@ -124,7 +124,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "lkmnoppo"
+twitter = "enricomeloni_ai"
 
 ############################
 ## Regional Settings
