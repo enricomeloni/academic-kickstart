@@ -12,20 +12,13 @@ address:
   postcode:
   country:
 summary: 
-abstract: "
-**Italiano** 
-
-
-L’epidemia di COVID-19 ha stimolato l’interesse in modelli epidemiologici che possano predire l’andamento dell’epidemia e aiutare a pianificare strategie di controllo efficaci. Una delle proposte più recenti è SIDARTHE, un modello che offre una ricca descrizione degli stadi dell’infezione. Imparare i parametri del modello ha una cruciale importanza per permetterci di comprendere come l’epidemia si evolve, specialmente per capire i cambiamenti dovuti agli interventi non farmaceutici, come il lockdown. Mostriamo un approccio generale all’apprendimento di parametri tempo-varianti dei modelli epidemiologici a partire dai dati epidemici. Mostriamo anche un’implementazione in PyTorch di tale approccio e i risultati del processo di apprendimento.
+abstract: "The COVID-19 outbreak has stimulated the interest in epidemiological models to predict the course of the epidemic and help planning effective control strategies. One of the recent proposals is SIDARTHE, which offers a rich description of the stages on infection. The problem of learning the parameters of the model is of crucial importance to understand the evolution of the epidemic, especially to understand the changes due to non-pharmaceuticals interventions such as lockdowns. We show a general approach to learning time-variant parameters of epidemiological models from epidemic data using. We also show a PyTorch implementation of such approach and the results of the learning process.
 
 
 ***
 
 
-**English**
-
-
-The COVID-19 outbreak has stimulated the interest in epidemiological models to predict the course of the epidemic and help planning effective control strategies. One of the recent proposals is SIDARTHE, which offers a rich description of the stages on infection. The problem of learning the parameters of the model is of crucial importance to understand the evolution of the epidemic, especially to understand the changes due to non-pharmaceuticals interventions such as lockdowns. We show a general approach to learning time-variant parameters of epidemiological models from epidemic data using. We also show a PyTorch implementation of such approach and the results of the learning process."
+L’epidemia di COVID-19 ha stimolato l’interesse in modelli epidemiologici che possano predire l’andamento dell’epidemia e aiutare a pianificare strategie di controllo efficaci. Una delle proposte più recenti è SIDARTHE, un modello che offre una ricca descrizione degli stadi dell’infezione. Imparare i parametri del modello ha una cruciale importanza per permetterci di comprendere come l’epidemia si evolve, specialmente per capire i cambiamenti dovuti agli interventi non farmaceutici, come il lockdown. Mostriamo un approccio generale all’apprendimento di parametri tempo-varianti dei modelli epidemiologici a partire dai dati epidemici. Mostriamo anche un’implementazione in PyTorch di tale approccio e i risultati del processo di apprendimento."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
