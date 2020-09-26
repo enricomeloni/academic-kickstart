@@ -56,7 +56,7 @@ url_slides: IAML_covid_EM.pdf
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=Wj2xfaX35vQ&t=2436s
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -72,3 +72,9 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["covid-tools"]
 ---
+
+### Talk recorded on YouTube
+<iframe width="600" height="338" src="https://www.youtube-nocookie.com/embed/Wj2xfaX35vQ?start=2450" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Slides powered by Slideshare:
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Ar1S351w5Gsxec" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MeetupDataScienceRoma/machine-learning-for-epidemiological-models-enrico-meloni" title="Machine Learning for Epidemiological Models (Enrico Meloni)" target="_blank">Machine Learning for Epidemiological Models (Enrico Meloni)</a> </strong> from <strong><a href="https://www.slideshare.net/MeetupDataScienceRoma" target="_blank">MeetupDataScienceRoma</a></strong> </div>
