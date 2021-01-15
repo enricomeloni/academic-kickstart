@@ -5,7 +5,7 @@ title: "SAILenv"
 summary: "A virtual environment for generating fully annotated video streams."
 authors: [Enrico Meloni, Luca Pasqualini, Matteo Tiezzi, Marco Gori, Stefano Melacci]
 tags: [machine learning, virtual environments, computer vision, c#, unity3d]
-categories: [Machine Learning]
+categories: [Machine Learning, Virtual Environments]
 date: 2020-06-24T15:47:32+02:00
 
 # Optional external URL for project (replaces project detail page).
