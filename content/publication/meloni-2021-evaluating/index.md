@@ -13,7 +13,7 @@ authors:
 - Stefano Melacci
 tags: [sailenv, virtual environments, unity, 3d, computer vision, continual learning]
 categories: [Machine Learning, Virtual Environments, Continual Learning]
-date: '2021-01-01'
+date: '2021-09-16'
 lastmod: 2021-09-17T12:44:41+02:00
 featured: false
 draft: false
