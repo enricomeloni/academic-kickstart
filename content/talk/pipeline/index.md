@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Differentiable Rendering and Adversarial Learning"
+title: "Pipeline Parallelism for Real-Time Online Learning"
 event: SAILab Lab Meeting
-event_url: "https://sailab.diism.unisi.it/feb-10th-2021-labmeeting-differentiable-rendering-and-adversarial-learning/"
+event_url: 'https://sailab.diism.unisi.it/may-25th-2022-labmeeting-pipeline-parallelism-for-real-time-online-learning/'
 location:
 address:
   street:
@@ -16,15 +16,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-02-10T10:52:10+01:00
-date_end: 2021-02-10T10:52:10+01:00
+date: 2022-05-25T11:00:00+02:00
+date_end: 2022-05-25T11:30:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-02-10T10:52:10+01:00
+publishDate: 2022-05-31T16:18:58+02:00
 
 authors: [Enrico Meloni]
-tags: [computer vision, virtual environments, visual agents, unity3D, adversarial learning, sailenv]
+tags: [hpc, parallel computations, distributed systems, multi-gpu, cuda programming]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -33,7 +33,7 @@ featured: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Example of Attacked Object"
+  caption: "Example of Asynchronous Pipeline Parallelism"
   focal_point: "Smart"
   preview_only: false
 
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: diffrendering_slides.pdf
+url_slides: pipeline_slides.pdf
 
 url_code:
 url_pdf:
@@ -64,5 +64,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [lve]
+projects: [partime]
 ---
+
+Figures taken from https://arxiv.org/abs/2006.09503
