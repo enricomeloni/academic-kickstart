@@ -46,5 +46,5 @@ links:
   - icon_pack: ai
     icon: arxiv
     name: arXiv
-    url: https://arxiv.org/abs/2109.08465
+    url: https://arxiv.org/abs/2204.12193
 ---

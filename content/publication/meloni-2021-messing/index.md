@@ -40,6 +40,10 @@ Learning and Applications (ICMLA) 2021'
 
 links:
   - icon_pack: ai
+    icon: ieee
+    name: IEEE Xplore
+    url: 'https://ieeexplore.ieee.org/abstract/document/9680120'
+  - icon_pack: ai
     icon: arxiv
     name: arXiv
     url: https://arxiv.org/abs/2109.08465

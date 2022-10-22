@@ -44,4 +44,8 @@ links:
     icon: arxiv
     name: arXiv
     url: https://arxiv.org/abs/2109.07855
+  - icon_pack: ai
+    icon: springer
+    name: Springer
+    url: https://link.springer.com/chapter/10.1007/978-3-031-17587-9_5
 ---
