@@ -10,24 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Artificial Intelligence
+role: Lead AI Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: SAILab - University of Siena
+- name: Baker Hughes - AI Team Florence
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision and development of virtual environments for training visual agents
 
 interests:
+- Software Engineering
 - Artificial Intelligence
 - Computer Vision
 - Virtual Environments
-- Software Engineering
 
 education:
   courses:
+  - course: PhD in Smart Computing
+    institution: University of Florence and Siena
+    year: 2023
   - course: MSc in Computer Engineering
     institution: University of Pisa
     year: 2019
@@ -55,6 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/enricomeloni
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/enrico-meloni/?locale=en_US
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,7 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Machine Learning and Explainable AI, at the University of Florence (Smart Computing). I make my research work at SAILab at the University of Siena. My research interests include computer vision, development of virtual environments for training of visual agents. I have a strong passion for Software Engineering and programming.
-
-You can also find me at my personal page in [<img src="/img/sailab.svg" alt="sailab" class="svg-icon svg-baseline">SAILaB website](http://sailab.diism.unisi.it/people/enrico-meloni/).
-
+I work as Lead AI Engineer at Baker Hughes, applying my strong passion and 15+ years experience with Software Engineering to Artificial Intelligence solutions for Industrial Processes. I obtained a PhD in Machine Learning and Explainable AI, at the University of Florence (Smart Computing), and performed my research work on Computer Vision, Continual Learning and Virtual Environments at SAILab at the University of Siena.
